@@ -4,3 +4,31 @@ body{
     background-color: wheat;
     font-family: 'Prompt', sans-serif;
 }
+
+div{
+    color: black;
+    
+}
+
+.bg-color-red{
+    background-color:red;
+    font-size: 50px;
+    color: black;
+}
+
+.bg-color-gold{
+    background-color:gold;
+}
+
+div{
+    color: black;
+}
+
+.border-1-radius-5{
+    background-color:#ed710a;
+    color: #cda833;
+    border:1px solid #ededed;
+    border-radius:5px;
+    margin: 2px;
+    padding:10px;
+}
