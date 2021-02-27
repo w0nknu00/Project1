@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
 body{
     background-color: wheat;
+    font-family: 'Prompt', sans-serif;
 }
